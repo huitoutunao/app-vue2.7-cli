@@ -1,5 +1,7 @@
 # app-vue2.7-cli
 
+通过 `@vue/cli5` 初始 `vue2.7` 项目模板。
+
 ## Project setup
 ```
 yarn install
